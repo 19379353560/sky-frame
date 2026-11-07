@@ -1,0 +1,478 @@
+[
+  {
+    "path": "cad/Forty/Parts/FullAssembly/Forty_V2_v1.1.step",
+    "source_relative_path": "Parts/FullAssembly/Forty_V2_v1.1.step",
+    "bytes": 12725772,
+    "sha256": "9a67e293cebf9ea6d266337db04e0da66f95d36d041d3dd5f8f2f6f0a0925e71",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/CarrbonFiberPlate/TopPlate_v1.1.step",
+    "source_relative_path": "Parts/SharedParts/CarrbonFiberPlate/TopPlate_v1.1.step",
+    "bytes": 589392,
+    "sha256": "2e732a262504509115bf73399e9dfe3daf661a6d0f4502fb95eab7738b97d40f",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/CarrbonFiberPlate/Arm_v1.1_B.step",
+    "source_relative_path": "Parts/SharedParts/CarrbonFiberPlate/Arm_v1.1_B.step",
+    "bytes": 441445,
+    "sha256": "31b718dc9d56a404dd3f05fda8f6773d3c4cf14883a5cad1629678c52e514af3",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/CarrbonFiberPlate/BatteryLandingGear.step",
+    "source_relative_path": "Parts/SharedParts/CarrbonFiberPlate/BatteryLandingGear.step",
+    "bytes": 84774,
+    "sha256": "1940206c2eea2d499ad0232e4dc96706bcd14b22a91bf722010527b60794b0e0",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/CarrbonFiberPlate/Arm_v1.2.step",
+    "source_relative_path": "Parts/SharedParts/CarrbonFiberPlate/Arm_v1.2.step",
+    "bytes": 441477,
+    "sha256": "80d435395d561290dc3e3005613ad0f28a0a39f2979ac5086632c9f9e39c5838",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/CarrbonFiberPlate/BasePlate.step",
+    "source_relative_path": "Parts/SharedParts/CarrbonFiberPlate/BasePlate.step",
+    "bytes": 674787,
+    "sha256": "9cc609cdb471e76ce5987efe97f5b21d949c906878858fd29068a5f1aabe471c",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/CarrbonFiberPlate/BasePlate_v1.1.step",
+    "source_relative_path": "Parts/SharedParts/CarrbonFiberPlate/BasePlate_v1.1.step",
+    "bytes": 1176416,
+    "sha256": "f39bca55f0903b81e25011bf6e54353f99308f5e30293655533f43bf7c57cd22",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/CarrbonFiberPlate/Arm.step",
+    "source_relative_path": "Parts/SharedParts/CarrbonFiberPlate/Arm.step",
+    "bytes": 195384,
+    "sha256": "46ef79f5a43f173b60ccf5e59fcb971bac1a87973ebbec0fac4459afc7dbf17f",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/CarrbonFiberPlate/TopPlate.step",
+    "source_relative_path": "Parts/SharedParts/CarrbonFiberPlate/TopPlate.step",
+    "bytes": 337062,
+    "sha256": "24b5ee00c5bd0987eb2205d5f3787c3ac705fc2316dbe431a5afa1684e40c561",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/CarrbonFiberPlate/MotorMountPlate_v1.1.step",
+    "source_relative_path": "Parts/SharedParts/CarrbonFiberPlate/MotorMountPlate_v1.1.step",
+    "bytes": 147807,
+    "sha256": "46036d09cd55f7baa0d5aba389425997cd6043064c7c93c3065b5a2105584d17",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/CarrbonFiberPlate/MotorMountPlate.step",
+    "source_relative_path": "Parts/SharedParts/CarrbonFiberPlate/MotorMountPlate.step",
+    "bytes": 124678,
+    "sha256": "c6b7fdf8e14971b187c1270e7986746ddb7d773ecbb826132991dd062ca07011",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/CarrbonFiberPlate/Arm_v1.1_A.step",
+    "source_relative_path": "Parts/SharedParts/CarrbonFiberPlate/Arm_v1.1_A.step",
+    "bytes": 441445,
+    "sha256": "418ba66b753bb1b7ba626e605f8bc2017b50b048cd085eb333f91faaac540995",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/LG_3DP_Front.step",
+    "source_relative_path": "Parts/SharedParts/PrintParts/LG_3DP_Front.step",
+    "bytes": 222926,
+    "sha256": "06ab9f10c3687844c64d98bb8dc57a971310fd3906d20a3a7428d94e5b23ccdc",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/BLG_Feet_3PT.stl",
+    "source_relative_path": "Parts/SharedParts/PrintParts/BLG_Feet_3PT.stl",
+    "bytes": 45284,
+    "sha256": "ff52275736f199d4f0f0c66466f6f36b16522a1315b3dbb54d2f5724f15e4b19",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/TM_xt90.stl",
+    "source_relative_path": "Parts/SharedParts/PrintParts/TM_xt90.stl",
+    "bytes": 191884,
+    "sha256": "baf94743288cd3e3a82f2ae90905d79b215fd193b36cfbf7eff107235f8dbe89",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/LG_3DP_Left.step",
+    "source_relative_path": "Parts/SharedParts/PrintParts/LG_3DP_Left.step",
+    "bytes": 298723,
+    "sha256": "57a247cfada8f82d6132187362049d778f575299c113700508c7d656a391bfa8",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/TM_Topcover.stl",
+    "source_relative_path": "Parts/SharedParts/PrintParts/TM_Topcover.stl",
+    "bytes": 307584,
+    "sha256": "d78cc0b43915ff1b306a3fe82943759da6d104c73a252c0c598ea41b287306e8",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/TM_xt90.step",
+    "source_relative_path": "Parts/SharedParts/PrintParts/TM_xt90.step",
+    "bytes": 175184,
+    "sha256": "9cc9a85af2e1797f6621be660aee475ab722f42bb3618c05b01bc2bf85463e80",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/BLG_Feet_3PT.step",
+    "source_relative_path": "Parts/SharedParts/PrintParts/BLG_Feet_3PT.step",
+    "bytes": 41963,
+    "sha256": "e77d6a32baf557fa026e3bcfa13e4585ec38e5951b5a555746f3209d5fb2fe5c",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/LG_3DP_Left.stl",
+    "source_relative_path": "Parts/SharedParts/PrintParts/LG_3DP_Left.stl",
+    "bytes": 673284,
+    "sha256": "2ba9fea77c262615cf7e072db43d1893ab1cadd2491ec88bc540a37d4fc7ba8b",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/TM_Topcover.step",
+    "source_relative_path": "Parts/SharedParts/PrintParts/TM_Topcover.step",
+    "bytes": 283935,
+    "sha256": "07ae70bd84aff7f666343d84c21f9b3b393daf39521ba04c9c745b0b367746e8",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/LG_3DP_Right.stl",
+    "source_relative_path": "Parts/SharedParts/PrintParts/LG_3DP_Right.stl",
+    "bytes": 673284,
+    "sha256": "8000bba3b70b0a1c61034babbe62d24c9b57a42b12525376f05e82d5911c57eb",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/LG_3DP_Front.stl",
+    "source_relative_path": "Parts/SharedParts/PrintParts/LG_3DP_Front.stl",
+    "bytes": 329884,
+    "sha256": "077427fcbcca8d1192520f74194eeb2c4611accd5efdd6345e719ef7442c6eda",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/SharedParts/PrintParts/LG_3DP_Right.step",
+    "source_relative_path": "Parts/SharedParts/PrintParts/LG_3DP_Right.step",
+    "bytes": 297387,
+    "sha256": "7401249330e7336cc01b26e997edf6f44da82b54663f3164b3a8a5ee5a346e20",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/CarrbonFiberPlate/CM_MountPlate.step",
+    "source_relative_path": "Parts/V1_Parts/CarrbonFiberPlate/CM_MountPlate.step",
+    "bytes": 69907,
+    "sha256": "319b5cc75099a83b93f56ca95d513a5ce83b08af3f76b5034d242d50dae8ac62",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/CarrbonFiberPlate/CM_SupportPlate.step",
+    "source_relative_path": "Parts/V1_Parts/CarrbonFiberPlate/CM_SupportPlate.step",
+    "bytes": 38861,
+    "sha256": "d445d7d988ebcbfc276891df6e23175bd0dae543b3c12f88b74894f19b74fff3",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/CarrbonFiberPlate/CMB_SupportPlate.step",
+    "source_relative_path": "Parts/V1_Parts/CarrbonFiberPlate/CMB_SupportPlate.step",
+    "bytes": 35274,
+    "sha256": "8eed0f63be4e7d824c733fdee24fbdbc8077f8d341984615abd81662563df235",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/CarrbonFiberPlate/CameraDamppedBasePlate.step",
+    "source_relative_path": "Parts/V1_Parts/CarrbonFiberPlate/CameraDamppedBasePlate.step",
+    "bytes": 199775,
+    "sha256": "d6d3ab86c6998925e0b35d7efb3c624fe5d4cb7db5fa718c16e212761ab27ad7",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/CM_3DP_Support02.stl",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/CM_3DP_Support02.stl",
+    "bytes": 197384,
+    "sha256": "bf961a5cad66021a9f4ab35c8340d1df8a9b9d0739703075a7ddecdd489c4f84",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/Hull_01.stl",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/Hull_01.stl",
+    "bytes": 157884,
+    "sha256": "bca3ff744df57bbe23cafe8f65edd4dd5f2caf04ba7d3ac8bad1d1b6bf9a0ab0",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/TBS_Ant_SMA.stl",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/TBS_Ant_SMA.stl",
+    "bytes": 489684,
+    "sha256": "5fd36429e3bcbb93c5e1f56e1774f072a64c3b8afb09926a72014acb6559cfb0",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/CM_3DP_Support01.step",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/CM_3DP_Support01.step",
+    "bytes": 21990,
+    "sha256": "c0f1b56b685ca682e5be83e20a238ffed108b030eb462c0676dcadfa723e87ce",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/O3CM_Left.stl",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/O3CM_Left.stl",
+    "bytes": 381684,
+    "sha256": "23fda1ced259669b3d8aed606d6587e7e80208541e688c5cbe350540a07c76b0",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/CM_3DP_Support01.stl",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/CM_3DP_Support01.stl",
+    "bytes": 95684,
+    "sha256": "8dee9dcde79a1021cbb91e836ea757d2d96c758af0795d3e236fd5073c04dc70",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/M10_25mm_SMA.stl",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/M10_25mm_SMA.stl",
+    "bytes": 451384,
+    "sha256": "8ebc21587b56d73812474830da41b603c75b56f41ea7b6108e58b20241b4f3f4",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/O3CM_Right.step",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/O3CM_Right.step",
+    "bytes": 165650,
+    "sha256": "30b0abe6200ec40b97c8ad7de38b412e4445c7e3cf16ac19ee9b3b7f3ffb0931",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/CMB_3DP_Support.step",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/CMB_3DP_Support.step",
+    "bytes": 353592,
+    "sha256": "6b2b6e48fd5874a8dfbb48aa0f2892ded8bf642d5ca99e46aa50334782cb0c5d",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/CMB_3DP_Support.stl",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/CMB_3DP_Support.stl",
+    "bytes": 664084,
+    "sha256": "56241de66c1cf7657b66b1a43d368ab3df5cd37d8e343dc4c217b0a875352595",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/M10_25mm_SMA.step",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/M10_25mm_SMA.step",
+    "bytes": 119380,
+    "sha256": "22f2e159f4c04cef96266da0e4d06337af25d339f59086bf89439e0c713c532b",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/Hull_01.step",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/Hull_01.step",
+    "bytes": 253389,
+    "sha256": "639cc94dea4fe8705c3282e85e31fc9124410b988af89db6391181dbd04fc0b6",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/O3CM_Left.step",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/O3CM_Left.step",
+    "bytes": 183277,
+    "sha256": "d44891874b4fa54d0fa4216dbde870b105a90abc84cca2bcc5b66e30326de05b",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/TBS_Ant_SMA.step",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/TBS_Ant_SMA.step",
+    "bytes": 154951,
+    "sha256": "e4eb3594a391ee67578c73a7e1fa82709cb0411c3777d714e66eb76165f46a10",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/O3CM_Right.stl",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/O3CM_Right.stl",
+    "bytes": 381684,
+    "sha256": "23c0bfed7a0fac5ef275161eb5080a1fc33c7d8c058bb7e37839d4e8e076d80c",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V1_Parts/PrintParts/CM_3DP_Support02.step",
+    "source_relative_path": "Parts/V1_Parts/PrintParts/CM_3DP_Support02.step",
+    "bytes": 121484,
+    "sha256": "238a2a40729e1e049303b843e412b7fc2fcc4996f294adede3b675300f9f8563",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/CarrbonFiberPlate/CameraDamppedBasePlate02.step",
+    "source_relative_path": "Parts/V2_Parts/CarrbonFiberPlate/CameraDamppedBasePlate02.step",
+    "bytes": 179960,
+    "sha256": "2be77f7c21480ecd965dbeb82905daa68bb9c314592c7b3c2c75af0fca77e8ac",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/CarrbonFiberPlate/H02_CameraMountPlate.step",
+    "source_relative_path": "Parts/V2_Parts/CarrbonFiberPlate/H02_CameraMountPlate.step",
+    "bytes": 308613,
+    "sha256": "c7115f2fc94d2ced5de53b8b3d3b5f4dd1a49b3dd0f36c1f50f829828d57dd78",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/CarrbonFiberPlate/H02_support01.step",
+    "source_relative_path": "Parts/V2_Parts/CarrbonFiberPlate/H02_support01.step",
+    "bytes": 76425,
+    "sha256": "efc5624e0f5ae4f8b75728007bb9055cc2fffcc7ffd4d91c6f0aaad1f79359ef",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Mount_L.step",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Mount_L.step",
+    "bytes": 94449,
+    "sha256": "ce96eef6363a5dc336b3b0cd838089ff48c32d054e3cdf40f0dae58c7e551299",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/H02_CameraMount.stl",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/H02_CameraMount.stl",
+    "bytes": 1424684,
+    "sha256": "87d2df72bdb1c15c51e52860a433a4e1812befae9bdd9d2937fb9b2a3b000d7b",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Transparent_Top_R.step",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Transparent_Top_R.step",
+    "bytes": 49916,
+    "sha256": "c9465a9fe928759d2b2801c115e64765718b2f35fe867dd157b356f713000a90",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Transparent_Top_L.stl",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Transparent_Top_L.stl",
+    "bytes": 5084,
+    "sha256": "14ec4bd7dd4e17eb7f7c9fe81ad818c30dc2b88722624913c19bbc6f82849d7f",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/H02_Transparent.step",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/H02_Transparent.step",
+    "bytes": 30151,
+    "sha256": "88a2e31a291999e9c7085b398865a79b6611a6adf74ee201631f2ce27dafd1d1",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/H02_BackCover.stl",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/H02_BackCover.stl",
+    "bytes": 679484,
+    "sha256": "ba758ef38636cd0e8168ff80b62c51a1ae68619499bb299d5fe668bc3f1c7e53",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Transparent_Top_L.step",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Transparent_Top_L.step",
+    "bytes": 50084,
+    "sha256": "d2c03b6b84138a1563d5289c3a4d2d1ab853b64236e7763d2af77d3fcc825f84",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Transparent_Low_R.stl",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Transparent_Low_R.stl",
+    "bytes": 5284,
+    "sha256": "5e937b5e284ee6ac4caa3a40e1be7fba32520fbbadba4f29f83931b18e4d1a48",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/H02_Transparent.stl",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/H02_Transparent.stl",
+    "bytes": 54284,
+    "sha256": "466f4c9cc5fdae96f093a9807050fc8dca7581252a4bfe66d441085556ce1e7a",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Mount_R.step",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Mount_R.step",
+    "bytes": 94139,
+    "sha256": "54255a912ba341bf42d1ee12284166dfd616b99b54b64b171d243cdf335462f8",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Mount_R.stl",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Mount_R.stl",
+    "bytes": 164084,
+    "sha256": "674fa713a6727bc02400d5aa540ccedc239dcb4452437c9bf0d5051e52577226",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Transparent_Low_L.stl",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Transparent_Low_L.stl",
+    "bytes": 5284,
+    "sha256": "0e676f43dea958b527d216c779a1a386cee1cc499ae22d522252757a46dc7c0c",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Transparent_Low_R.step",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Transparent_Low_R.step",
+    "bytes": 45226,
+    "sha256": "15c2c93476f464157c97078f6354496371da6bcc97e17053dbae282d80cf91bf",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Mount_L.stl",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Mount_L.stl",
+    "bytes": 164084,
+    "sha256": "740aaacdd419675e13cd40004f0dc1ad415fb150ac6857466a7ae6a59f701c85",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/H02_FrontalShell_v1.1.stl",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/H02_FrontalShell_v1.1.stl",
+    "bytes": 1403684,
+    "sha256": "ebcc3acf75cf9b940ccbb5dada6de9109d1e9dafc503bcc6e6fc714fd2b72d9f",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Transparent_Low_L.step",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Transparent_Low_L.step",
+    "bytes": 45396,
+    "sha256": "d49345b677a28b916a71f97ddb5f152317534fa3f5503bae7cd518376d60bd1a",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/H02_BackCover.step",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/H02_BackCover.step",
+    "bytes": 564512,
+    "sha256": "f9fdec80e0aa9360906b9a09b7620457fbeba47375d6f07cb39bc9d35f947cb7",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/H02_FrontalShell.stl",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/H02_FrontalShell.stl",
+    "bytes": 1411484,
+    "sha256": "8f5ec201ff143148d2652118af6a534056dfe40759c1ffb33edec693f5f71fd1",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/H02_FrontalShell.step",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/H02_FrontalShell.step",
+    "bytes": 716212,
+    "sha256": "489f30d99271260a77068b72c385bbd76b37e842c1f238f89d62fe46c47818fe",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/H02_CameraMount.step",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/H02_CameraMount.step",
+    "bytes": 479625,
+    "sha256": "4886cc406788a68e496ed4aa313cc1d4d54f2e4aa1b2c9a192745881f96c6d65",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  },
+  {
+    "path": "cad/Forty/Parts/V2_Parts/PrintParts/SH_Transparent_Top_R.stl",
+    "source_relative_path": "Parts/V2_Parts/PrintParts/SH_Transparent_Top_R.stl",
+    "bytes": 5084,
+    "sha256": "f83d90fcf5e5b2f314b9f8e5b30d962860c674b2334849949b62f95d5b5e1126",
+    "attribution": "Forty source archive; individual authorship is not inferred from local possession"
+  }
+]
